@@ -6,19 +6,19 @@ Herzlich Willkommen auf LOS SANTOS ISLAND. Gerne erklären wir dir hier alles, w
 
 ***
 
-Was ist LOS SANTOS ISLAND? Ganz einfach, wir sind ein deutscher Roleplay Server basierend auf alt:V, mit dem Fokus auf Einzigartigkeit und Kreativität. Seit mittlerweile 2 Jahren wird an dem Projekt tatkräftig in der Freizeit gearbeitet und das Team wächst immer mehr. Auch unsere Community wird von Tag zu Tag immer grösser. Um bei uns mitmachen zu können, musst du dein 18. Lebensjahr erreicht haben und unser Regelwerk gelesen und akzeptiert haben.
+Was ist LOS SANTOS ISLAND? Ganz einfach, wir sind ein deutscher Roleplay Server basierend auf alt:V, mit dem Fokus auf Einzigartigkeit und Kreativität. Seit mittlerweile 2 Jahren wird an dem Projekt tatkräftig in der Freizeit gearbeitet und das Team wächst immer mehr. Auch unsere Community wird von Tag zu Tag immer größer. Um bei uns mitmachen zu können, musst du dein 18. Lebensjahr erreicht haben und unser Regelwerk gelesen und akzeptiert haben.
 
 ***
 
 ### **Wie kann ich Spielen?**
 
-_Wir gehen hier Schritt für Schritt gemeinsam durch was du benötigst und wie du es einrichtest._
+_Wir gehen hier Schritt für Schritt gemeinsam durch was du benötigst und wie du es einrichtest!_
 
 1. Alle Programme Download und einrichten ([Hilfe](technisches/programme-webseite.md))
 2. [Regelwerk durchlesen und verstehen](https://lossantosisland.de/rules)&#x20;
 3. [Whitelist-Antrag stellen](support/whitelist-antrag-stellen.md).&#x20;
 
-_Wurde dein Schriftlicher Antrag angenommen geht's weiter mit der Charakter Einstellung und der IC Whitelist. Um dich in allem sicher zu fühlen, gehe die komplette_ [_Spielmechanik_](broken-reference) _in Ruhe durch, bevor du, die IC Whitelist startest!_
+_Wurde, dein schriftlicher Antrag angenommen geht's weiter mit der Charakter Einstellung und der IC Whitelist. Um dich in allem sicher zu fühlen, gehe die komplette Spielmechanik in Ruhe durch, bevor du, die IC Whitelist startest!_
 
 ***
 
