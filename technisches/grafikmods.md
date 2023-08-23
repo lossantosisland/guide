@@ -22,5 +22,3 @@ Folgende Mods haben wir überprüft und für euch zugelassen!
 
 * Reshade
 * ENB Lights
-
-\

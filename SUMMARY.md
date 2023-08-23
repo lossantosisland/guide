@@ -13,7 +13,6 @@
 
 * [Programme / Webseite](technisches/programme-webseite.md)
 * [Grafikmods](technisches/grafikmods.md)
-* [Grafikeinstellungen](technisches/grafikeinstellungen.md)
 
 ## Spielmechanik
 
