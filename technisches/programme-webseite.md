@@ -72,6 +72,6 @@
 ### Webseite mit TeamSpeak verbinden
 
 1. Gehe auf unseren [TeamSpeak](ts3server://lossantosisland.de)
-2. Du wirst direkt von LOS SANTOS ISLAND angeschrieben mit den [Nutzungsbedingungen](https://lossantosisland.de/tos). Alles durchlesen
+2. Du wirst direkt von LOS SANTOS ISLAND angeschrieben mit den [Nutzungsbedingungen](https://lossantosisland.de/tos).&#x20;
 3. !link in den Chat und der Bot schickt dir dein Token
 4. Token kopieren und auf der [Webseite](https://lossantosisland.de/) unter "Dein Profil" -> "Konto bearbeiten"  kannst du den Token einfügen und dein TS mit der Webseite verbinden.&#x20;
