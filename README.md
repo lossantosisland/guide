@@ -2,6 +2,10 @@
 
 ## Willkommen auf LOS SANTOS ISLAND&#x20;
 
+{% hint style="warning" %}
+Aktuell ist LOS SANTOS ISLAND noch in der Entwicklungsphase, nicht alle Informationen sind vollständig und können sich noch ändern.
+{% endhint %}
+
 Herzlich Willkommen auf LOS SANTOS ISLAND. Gerne erklären wir dir hier alles, was du wissen musst.
 
 ***
