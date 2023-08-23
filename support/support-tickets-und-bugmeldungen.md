@@ -7,7 +7,7 @@ Du hast eine Frage zu einem allgemeinen Thema? \
 Dann melde dich via&#x20;
 
 * Ticket auf der [Webseite](https://lossantosisland.de/) &#x20;
-* [Teamspeak-Support](ts3server://lossantosisland.de)&#x20;
+* [TeamSpeak-Support](ts3server://lossantosisland.de)
 
 ***
 
@@ -25,7 +25,7 @@ Dann melde dich via&#x20;
 
 ***
 
-### Meldung über Teamspeak
+### Meldung über TeamSpeak
 
 1. Gehe auf unseren [TeamSpeak](ts3server://lossantosisland.de) in den Bereich Support in den Warteraum
 2. Fordere Talkpower an mit einem aussagekräftigem Grund
@@ -48,12 +48,10 @@ Um uns in diversen Situationen den Support einfacher zu machen, ist es immer von
 
 Du hast einen Bug entdeckt? Dann gehe bitte so vor!
 
-* Mache dir Schriftlich Notitzen, wie es zu dem Bug gekommen ist
+* Mache dir Schriftlich Notizen, wie es zu dem Bug gekommen ist
 * Wenn möglich Screenshots oder Videos machen
 * Denk darüber nach, ob der Fehler auch von deiner Seite aus kommen könnte
 
-
-
-Melde dich mit den Notizen und dem Bild/Videomaterial über einen der zwei Supportwege.&#x20;
+Melde dich mit den Notizen und dem Bild/Videomaterial über das Ticket System. **(Bugmeldungen über TeamSpeak können nicht bearbeitet werden)**&#x20;
 
 ***
